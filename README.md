@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shashidharakc
-- 👀 I’m interested in ... Math(Differeitial Equations), Reinforecment Learning 
+- 👀 I’m interested in ... Math(Differeitial Equations), Reinforecment Learning, Meta Learning
 - 🌱 I’m currently learning ... Quantam Computing
 - 💞️ I’m looking to collaborate on ... Nothing  
 - 📫 How to reach me ... Email 
