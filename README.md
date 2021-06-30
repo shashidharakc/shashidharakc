@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashidharakc
-- 👀 I’m interested in ... Math(Differeitial Equations), Reinforecment Learning, Meta Learning
-- 🌱 I’m currently learning ... Quantum ML
+- 👀 I’m interested in ... Math(Differeitial Equations), Reinforecment Learning, Meta Learning, Quantum ML
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... Nothing  
 - 📫 How to reach me ... Email 
 
